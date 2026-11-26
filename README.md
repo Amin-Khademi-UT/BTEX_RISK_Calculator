@@ -1,3 +1,6 @@
+<img width="3726" height="2278" alt="dashboard_Pump_island_resident" src="https://github.com/user-attachments/assets/73f5573f-7574-4b22-88b9-3c10e6aa2baf" />
+
+
 # btex-risk
 
 **A fully configurable BTEX inhalation health-risk calculator** following the
